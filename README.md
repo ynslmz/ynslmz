@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ynslmz
-- 👀 I’m interested in JS,TS,C#
-- 🌱 I’m currently learning JS,TS,C#
+- 👀 I’m interested in Angular, Javascript, .Net Core
+- 🌱 I’m currently learning to code in JS,TS,C#
 - 💞️ I’m looking to collaborate on JS,TS,C#
 - 📫 How to reach me : ynslmz.github.io
 
