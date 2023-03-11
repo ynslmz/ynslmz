@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Yunus ÖLMEZ](https://github.com/ynslmz/ynslmz)
-- 👀 I’m interested in Vue, Nuxt, Angular, Javascript, NestJS and Typescript
-- 🌱 I’m currently learning to code in JS,TS with best practices
+- 👋 Hi, I’m [Yunus ÖLMEZ](https://github.com/ynslmz)
+- 👀 I’m interested in React, Vue, Angular, Nuxt, NestJS Javascript and Typescript
+- 🌱 I’m currently learning and working to code in JS,TS with best practices
 - 📫 How to reach [me](https://ynslmz.github.io)
